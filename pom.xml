@@ -50,7 +50,7 @@
                             <goal>deploy-file</goal>
                         </goals>
                         <configuration>
-                            <file>D:\samplewebcalc\SampleWeb\obj\Debug\_PublishedWebsites\SampleWeb_Package\SampleWeb.zip</file>
+                            <file>D:\POC\WebDeployPackage\SampleWeb.zip</file>
                             <groupId>com.sampleweb.obj</groupId>
                             <artifactId>samplecalc</artifactId>
                             <version>1.0.0</version>
