@@ -53,7 +53,7 @@
                             <file>D:\POC\WebDeployPackage\SampleWeb.zip</file>
                             <groupId>com.sampleweb.obj</groupId>
                             <artifactId>samplecalc</artifactId>
-                            <version>1.0.0</version>
+                            <version>1.0.1</version>
                             <packaging>zip</packaging>
                             <generatePom>true</generatePom>
                             <repositoryId>com.sampleweb.obj</repositoryId>
