@@ -51,8 +51,8 @@
                         </goals>
                         <configuration>
                             <file>D:\POC\WebDeployPackage\SampleWeb.zip</file>
-                            <groupId>com.sampleweb.obj</groupId>
-                            <artifactId>samplecalc</artifactId>
+                            <groupId>com.samplecalc.obj</groupId>
+                            <artifactId>samplecal</artifactId>
                             <version>1.0.1</version>
                             <packaging>zip</packaging>
                             <generatePom>true</generatePom>
